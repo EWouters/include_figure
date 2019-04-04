@@ -1,0 +1,3 @@
+ |exampleimage|
+
+ |examplefigure|
